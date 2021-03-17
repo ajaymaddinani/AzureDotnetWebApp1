@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'AJSampleWebApp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5911a83f7e4f4387bd5ad821fa8a4d91 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a88d3db6bd4d4d4ea05b8361b3211db5 }}
         package: \published\
